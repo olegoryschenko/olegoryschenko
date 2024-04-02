@@ -1,4 +1,4 @@
-<h4>Hi I am Yeasin 💇‍♂️ , a passoniate Fullstack deveolper from Bangladesh.I am a Self-taught software Developer. I have a profound knowledge in Django, Javascript & Rest Framework. I love to work with new Technologies and like to learn new things everytime .<h4>
+<h4>Привет меня зовут Олег, я начинающий веб разработчик) Пробывал себя в многих направлениях и остановился на веб разработке, начал с 2023 года<h4>
 
  <table align="center" width="100%" height="100%" >
    <tr>
@@ -13,22 +13,13 @@
 
 
   
-<h2> Technologies I like to work with ❤️</h2>
+<h2>Технологии с которыми работаю и продолжаю изучать</h2>
  <table width="100% height="100%" align="center">
    <tr>
-      <td>
-        <img alt="python" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-     </td>
-     <td>
-      <img alt="django" height=64px src="https://cdn.worldvectorlogo.com/logos/django.svg">
-     </td>
-          <td align="center">
-       <img alt="css" height=64px src= "https://storage.caktusgroup.com/media/blog-images/drf-logo2.png">
-     </td>
       <td align="center">
       <img alt="javascript" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     </td>
-          <td align="center">
+     <td align="center">
        <img alt="React" height=64px src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
      </td> 
      <td align="center">
@@ -40,34 +31,13 @@
      <td align="center">
        <img alt="vscode" height=64px src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
      </td> 
-      <td align="center">
-       <img alt="docker" height=64px src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
-     </td> 
    </tr>
    <tr>
-          <td align="center">
-       <img alt="pycahrm" height=64px src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg">
-     </td> 
      <td align="center">
        <img alt="git" height=64px src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-     </td>
-        <td align="center">
-       <img alt="bash" height=64px src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg">
-     </td>
-    <td align="center">
-       <img alt="linux" height=64px src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-     </td>   
-    <td align="center">
-       <img alt="sql" height=64px src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg">
-     </td> 
-       <td align="center">
-       <img alt="debian" height=64px src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-     </td> 
-       <td align="center">
-       <img alt="Posql" height=64px src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
      </td>  
     <td align="center">
-       <img alt="wordpress" height=64px src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
+       <img alt="wordpress" height=64px src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*F9QwZsjxEcwZRD0CaKTBEQ.png">
      </td> 
      <td align="center">
        <img alt="html5" height=64px src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
@@ -87,7 +57,7 @@
  
  
 <h2> My Projects 📁</h2>
-<a href="https://github.com/yeazin/Movement-Pass-Clone">
+<!-- <a href="https://github.com/yeazin/Movement-Pass-Clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeazin&theme=react&repo=Movement-Pass-Clone" />
 </a>
 <a href="https://github.com/yeazin/Multi-Authors-advanced-Django-Blog">
@@ -99,18 +69,13 @@
  <a href="https://github.com/yeazin/Zooming-cls">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeazin&theme=react&repo=Zooming-cls" />
 </a>
-
+ -->
 <br>
 <br>
 
-## Let's colab 🚀
-
-🌟 I'm always open to collaborating on exciting projects and ideas. If you share similar interests or have a project you'd like to work on together, feel free to reach out on the socials below!
 
 <p>
-  <a href="mailto:naz.yeasin@gmail.com" target="_blank"><img alt="E-mail" src="https://img.shields.io/badge/-Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white" /></a>
-  <a href="wa.me/01672834142" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-42e35f?style=flat-square&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yeazin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-007ACC?style=flat-square&logo=linkedin&logoColor=white" />
+  <a href="mailto:olegoryschenko1123gmail.com" target="_blank"><img alt="E-mail" src="https://img.shields.io/badge/-Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white" /></a>
 </p>
 
 
@@ -124,14 +89,9 @@
 
 Here are some ideas to get you started:
 
- 🔭 I’m currently working on ...##Python & Django
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ 🔭 Сейчас я работаю с React js
+- 🌱 Сейчас я продолжаю учить React js 
+
 <a href="https://github.com/yeazin/stargazers"><img src="https://img.shields.io/github/stars/yeazin" alt="Stars Badge"/></a>
 
 -->
