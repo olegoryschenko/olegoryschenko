@@ -45,7 +45,7 @@
  
 <h2> My Projects 📁</h2>
 <a href="https://olegoryschenko.github.io/calculator/">
-	<img src="http://www.w3.org/1999/xlink">
+	<img src="https://cdn.iconscout.com/icon/free/png-512/free-calculator-717-461704.png?f=webp&w=256">
 </a>
 
 <br>
