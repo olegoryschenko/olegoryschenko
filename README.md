@@ -49,7 +49,7 @@
 </a>
 
 <a href="https://olegoryschenko.github.io/renzist/">
-	<img src="http://www.w3.org/2000/svg">
+	<img src="https://cdn-icons-png.flaticon.com/512/1198/1198317.png">
 </a>
 
 <br>
