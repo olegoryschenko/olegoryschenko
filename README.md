@@ -44,8 +44,8 @@
  
  
 <h2> My Projects 📁</h2>
-<a href="https://github.com/yeazin/Movement-Pass-Clone">
-  <img align="center" src="https://olegoryschenko.github.io/calculator/" />
+<a href="https://olegoryschenko.github.io/calculator/">
+  <img align="center" src="" />
 </a>
 
 <br>
