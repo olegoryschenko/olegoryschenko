@@ -45,11 +45,11 @@
  
 <h2> My Projects 📁</h2>
 <a href="https://olegoryschenko.github.io/calculator/">
-	<img src="https://cdn.iconscout.com/icon/free/png-512/free-calculator-717-461704.png?f=webp&w=256">
+	<img src="https://cdn.iconscout.com/icon/free/png-512/free-calculator-717-461704.png?f=webp&w=256" width="30px" height="30px">
 </a>
 
 <a href="https://olegoryschenko.github.io/renzist/">
-	<img src="https://cdn-icons-png.flaticon.com/512/1198/1198317.png">
+	<img src="https://cdn-icons-png.flaticon.com/512/1198/1198317.png" width="30px" height="30px">
 </a>
 
 <br>
