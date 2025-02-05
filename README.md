@@ -52,7 +52,8 @@
 	<img src="https://cdn-icons-png.flaticon.com/512/1198/1198317.png" width="100px" height="100px">
 </a>
 <a href="https://olegoryschenko.github.io/calculator/">
-	<img src="https://w7.pngwing.com/pngs/556/95/png-transparent-computer-icons-clock-clock.png" width="100px" height="100px">
+	<img src="https://github.com/user-attachments/assets/0a4b4a1c-5d40-4437-ad85-1295e99099f1
+" width="100px" height="100px">
 </a>
 
 <br>
