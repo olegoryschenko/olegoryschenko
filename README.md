@@ -51,6 +51,9 @@
 <a href="https://olegoryschenko.github.io/renzist/">
 	<img src="https://cdn-icons-png.flaticon.com/512/1198/1198317.png" width="100px" height="100px">
 </a>
+<a href="https://olegoryschenko.github.io/renzist/">
+	<img src="[https://cdn-icons-png.flaticon.com/512/1198/1198317.png](https://img.freepik.com/premium-vector/vector-simple-classic-round-wall-clock-transparent-background_686498-352.jpg?semt=ais_hybrid)" width="100px" height="100px">
+</a>
 
 <br>
 <br>
