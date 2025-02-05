@@ -46,13 +46,17 @@
 <h2> My Projects 📁</h2>
 <br>
 <p>Layout coding: </p>
-<a href="https://olegoryschenko.github.io/calculator/">
-	<img src="https://cdn.iconscout.com/icon/free/png-512/free-calculator-717-461704.png?f=webp&w=256" width="100px" height="100px">
+<a href="https://olegoryschenko.github.io/renzist/">
+	<img src="https://cdn-icons-png.flaticon.com/512/1198/1198317.png" width="100px" height="100px">
 </a>
 
 <p>JS coding: </p>
-<a href="https://olegoryschenko.github.io/renzist/">
-	<img src="https://cdn-icons-png.flaticon.com/512/1198/1198317.png" width="100px" height="100px">
+<a href="https://olegoryschenko.github.io/calculator/">
+	<img src="https://cdn.iconscout.com/icon/free/png-512/free-calculator-717-461704.png?f=webp&w=256" width="100px" height="100px">
+</a>
+<a href="https://olegoryschenko.github.io/alarm/">
+	<img src="![image](https://github.com/user-attachments/assets/12dbc0f5-4b37-4b31-8bb6-b09716ece54d)
+" width="100px" height="100px">
 </a>
 
 <p>React coding: </p>
