@@ -57,6 +57,9 @@
 <a href="https://olegoryschenko.github.io/alarm/">
 	<img src="https://img.icons8.com/officel/80/alarm-clock--v1.png" width="100px" height="100px">
 </a>
+<a href="https://olegoryschenko.github.io/alarm/">
+	<img src="https://img.poki-cdn.com/cdn-cgi/image/quality=78,width=314,height=314,fit=cover,f=auto/5e0df231478aa0a331a4718d09dd91a2.png" width="100px" height="100px">
+</a>
 
 <p>React coding: </p>
 
